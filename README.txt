@@ -1,0 +1,1 @@
+This was an exercise in SQL where I was charged with doing a research project on the employees of a fictional company called Pewlett Hackard. I had to do some DATA MODELING with CSVs to ERDs. I also had to do some DATA ENGINEERING by creating table schemas and finally some DATA ANALYSIS using PostgreSQL.
